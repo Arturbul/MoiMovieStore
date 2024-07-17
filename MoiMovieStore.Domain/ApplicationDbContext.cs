@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace MoiMovieStore.Web.Data
+namespace MoiMovieStore.Domain
 {
     public class ApplicationDbContext : IdentityDbContext
     {

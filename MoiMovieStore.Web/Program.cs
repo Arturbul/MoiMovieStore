@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using MoiMovieStore.Web.Data;
+using MoiMovieStore.Domain;
 
 var builder = WebApplication.CreateBuilder(args);
 

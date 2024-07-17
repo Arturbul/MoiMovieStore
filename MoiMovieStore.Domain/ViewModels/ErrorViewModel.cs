@@ -1,4 +1,4 @@
-namespace MoiMovieStore.Web.Models
+namespace MoiMovieStore.Domain.ViewModels
 {
     public class ErrorViewModel
     {

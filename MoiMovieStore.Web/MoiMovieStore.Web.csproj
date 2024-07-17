@@ -20,4 +20,9 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MoiMovieStore.Domain\MoiMovieStore.Domain.csproj" />
+    <ProjectReference Include="..\MoiMovieStore.Servicies\MoiMovieStore.Servicies.csproj" />
+  </ItemGroup>
+
 </Project>

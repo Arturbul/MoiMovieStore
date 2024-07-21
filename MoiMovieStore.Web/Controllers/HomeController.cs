@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using MoiMovieStore.Web.Models;
+using MoiMovieStore.Domain.ViewModels;
 using System.Diagnostics;
 
 namespace MoiMovieStore.Web.Controllers
